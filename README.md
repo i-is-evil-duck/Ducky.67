@@ -8,6 +8,7 @@
 ## ToDo
 + fix rgb strip placment
 + add underglow :?
++ add a fweakin microcontroler
 
 ## Views
 
